@@ -1,5 +1,5 @@
 # Grab a Stock!
-![Grab a Stock Header Image](header_image_link)
+![Grab a Stock Header Image](GrabAStockHeader.png)
 
 Grab a Stock is a cloud-based application that provides detailed stock analysis by integrating various machine learning models and sentimental analysis. The goal is to offer users comprehensive feedback on any chosen stock, facilitating informed investment decisions.
 
