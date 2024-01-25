@@ -1,12 +1,8 @@
 # Grab a Stock!
 ![Grab a Stock Header Image](GrabAStockHeader.png)
 
----
-
-# Stock Analysis and Valuation
-
-## Cutting-Edge Stock Market Analysis Tool
-
+## Stock Analysis and Valuation
+### Cutting-Edge Stock Market Analysis Tool
 Welcome to the Stock Analysis and Valuation project, a state-of-the-art platform that leverages advanced data analysis techniques for insightful stock market analysis. This project stands at the forefront of financial technology, blending traditional financial indicators with modern sentiment analysis to deliver unparalleled market insights.
 
 ## Badges
