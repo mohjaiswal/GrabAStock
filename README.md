@@ -70,10 +70,6 @@ Licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
 
 ## Acknowledgements
 - Thanks to all contributors and data providers like Yahoo Finance. Special thanks to my instructor Sasanka Panda for helping me postulate my ideas into a cohesive open source repository.
----
-Certainly! It's important to include a disclaimer in your project documentation to clarify its purpose and to disclaim liability. Here's a short note that you can add to your project:
-
----
 
 # Disclaimer
 
