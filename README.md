@@ -19,19 +19,12 @@ Welcome to the Stock Analysis and Valuation project, a state-of-the-art platform
 - **Market Trend Analysis:** Ideal for analysts seeking to understand market sentiments.
 - **Educational Tool:** A resource for educators and students in finance and data science disciplines.
 
-## Installation
-```bash
-git clone git@github.com:mohjaiswal/GrabAStock.git
-cd Stock-Analysis-and-Valuation
-pip install -r requirements.txt
-```
-
 ## Usage
 
 ### Basic Setup
 1. **Clone the Repository:**
    ```bash
-   git clone https://your-repository-link.git
+   git clone git@github.com:mohjaiswal/GrabAStock.git
    cd Stock-Analysis-and-Valuation
    ```
 2. **Install Dependencies:**
